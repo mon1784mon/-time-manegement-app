@@ -20,7 +20,7 @@ export default {
 
   },
   router: {
-    base:'/time-manegement-app/'
+    base:'/-time-manegement-app/'
   },
   generate: {
     dir: 'docs'
